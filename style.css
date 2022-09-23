@@ -1,0 +1,55 @@
+
+
+.background_img{
+    background-image: url('background.jpg');
+    background-size: cover;
+    height:600px;
+    border-radius: 0 ;
+    display: flex;
+    align-items: center;
+}
+.form_text{
+    justify-content: center;
+    
+}
+.courses_img{
+    border-radius: 0;
+}
+.row{
+    margin: 20px;
+}
+.search_course{
+    background-color: white;
+    width: 80%;
+    margin: 0 auto;
+    padding: 50px;
+}
+.card_bodyeffect:hover{
+    background-color: rgb(241, 71, 71);
+    color: white;
+}
+.footer_row{
+    background-color: rgb(43, 199, 43);
+    padding: 10px;
+}
+.icon{
+    color: blue;
+}
+.footer_row ul {
+    list-style: none;
+}
+.footer_row ul li i{
+    color: black;
+    margin: 0 5px;
+}
+.footer_row ul li a{
+    color: white;
+    font-size: 15px;
+}
+.footer_row ul li a:hover{
+    color:blue;
+}
+
+
+
+

@@ -1,0 +1,58 @@
+.background_img{
+    background-image: url('coursebgimg.jpg');
+    background-size: cover;
+    height:350px;
+    border-radius: 0 ;
+}
+
+    .search_course{
+        background-color: white;
+        width: 80%;
+        margin: 0 auto;
+        padding: 50px;
+}
+.course{
+    background-image: url('courseimg1.jpg');
+    background-size: cover;
+    height: 300px;
+    border-radius: 0;
+}
+.col-lg-6 a{
+    margin:5px;
+}
+.container1{
+    margin: 20px;
+}
+.btngroup{
+    width: 50%;
+    padding: 30px;
+}
+button{
+    padding: 8px;
+    margin: 5px;
+    border: none;
+    background-color: rgb(255, 121, 121);
+    color: white;
+}
+
+.footer_row{
+    background-color: rgb(43, 199, 43);
+    padding: 10px;
+}
+.icon{
+    color: blue;
+}
+.footer_row ul {
+    list-style: none;
+}
+.footer_row ul li i{
+    color: black;
+    margin: 0 5px;
+}
+.footer_row ul li a{
+    color: white;
+    font-size: 15px;
+}
+.footer_row ul li a:hover{
+    color:blue;
+}

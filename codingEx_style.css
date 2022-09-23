@@ -1,0 +1,42 @@
+.background_img{
+    background-image: url('codingExbgm.jpg');
+    background-size: cover;
+    height:400px;
+    border-radius: 0 ;
+}
+
+    .search_course{
+        background-color: white;
+        width: 80%;
+        margin: 0 auto;
+        padding: 50px;
+}
+.card-body ul li:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.footer_row{
+    background-color: rgb(43, 199, 43);
+    padding: 10px;
+}
+.icon{
+    color: blue;
+}
+.footer_row ul {
+    list-style: none;
+}
+.footer_row ul li i{
+    color: black;
+    margin: 0 5px;
+}
+.footer_row ul li a{
+    color: white;
+    font-size: 15px;
+}
+.footer_row ul li a:hover{
+    color:blue;
+}
+
+
+
